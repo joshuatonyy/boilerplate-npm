@@ -21,7 +21,6 @@
 	"license": "Joshua Tony Braindead Mind",
 	"version": "1.69.420",
 	"dependencies": {
-	  "package-name": "version",
 	  "moment": "2.14.0"
 	}
 }
