@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Joshua"
+	"author": "Joshua",
+	"description": "This app is for training purposes"
 }
