@@ -12,5 +12,16 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Joshua",
-	"description": "This app is for training purposes"
+	"description": "This app is for training purposes",
+	"keywords": [
+	  "training",
+	  "freecodecamp",
+	  "backend"
+	],
+	"license": "Joshua Tony Braindead Mind",
+	"version": "1.69.420",
+	"dependencies": {
+	  "package-name": "moment",
+	  "moment": "2.14.0"
+	}
 }
