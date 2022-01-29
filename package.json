@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "^2.14.0"
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,9 +15,9 @@
 	"author": "Joshua",
 	"description": "This app is for training purposes",
 	"keywords": [
-	  "training",
-	  "freecodecamp",
-	  "backend"
+		"training",
+		"freecodecamp",
+		"backend"
 	],
 	"license": "Joshua Tony Braindead Mind",
 	"version": "1.69.420"
